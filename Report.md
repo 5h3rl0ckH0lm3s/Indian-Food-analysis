@@ -56,7 +56,7 @@
 - Vegetarian dishes are more likely of longer cooking and preparation times.
 - Sweets and spicy dishes have the maximum cooking time.
 
-### findings of multivariate analysis:
+### Findings of multivariate analysis:
 - All starters are spicy and main course tends to contain dishes having all types of taste.
 - The data also tells that the most non vegetarian dishes are from east and South India. This colludes with the fact that North west India has the highest percentage of Vegetarian people.
 - The huge variety of vegetarian dishes and high percentage of vegetarian population makes India unique.
